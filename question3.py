@@ -23,7 +23,7 @@ def question3_6():
     return answer
 
 def question3_7():
-    answer = ['discrete', 'qualitative', 'nominal']
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question3_8():
